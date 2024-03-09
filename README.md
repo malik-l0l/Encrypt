@@ -20,8 +20,7 @@ Let's say your message is "cat." Using the encryption system, "c" becomes "x," "
 To run the project in your local environment,Python must be installed on your system and follow these steps:
 
 1. Clone the repository to your local machine or just copy-paste the code in `encrypt.py`.
-2. Run `pip install tkinter` in the project directory to install the Tkinter library, which is usually included with Python installations.
-3. Run `py encrypt.py` in terminal or click on run `▶️` button to get the project started.
+2. Run `py encrypt.py` in terminal or click on run `▶️` button to get the project started.
 
 ## 📙 How to Use
 
